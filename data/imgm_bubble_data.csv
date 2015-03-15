@@ -1,0 +1,276 @@
+name,radius,fillKey,latitude,longitude,mbs,project
+4477803.3,10,soil,-77.73,162.31,595.2,cross-site soil metagen
+4477804.3,10,soil,39.1,-96.6,534.9,cross-site soil metagen
+4477805.3,10,soil,34.9,-115.65,589.9,cross-site soil metagen
+4477807.3,10,soil,-12.63,-71.23,920.7,cross-site soil metagen
+4477874.3,10,soil,68.63,-149.58,601.2,cross-site soil metagen
+4477875.3,10,soil,-54.68,-26.73,523.5,cross-site soil metagen
+4477876.3,10,soil,64.8,-148.25,654.4,cross-site soil metagen
+4477877.3,10,soil,34.62,-81.67,640.3,cross-site soil metagen
+4477899.3,10,soil,35.97,-79.08,389,cross-site soil metagen
+4477900.3,10,soil,-78.03,163.87,794.7,cross-site soil metagen
+4477902.3,10,soil,-77.61,163.25,944.7,cross-site soil metagen
+4477903.3,10,soil,-77.64,162.89,654.4,cross-site soil metagen
+4477904.3,10,soil,-77.53,161.7,1086.4,cross-site soil metagen
+4481963.3,10,sediment,45.14,106.77,6271.9,Tongue_all_2011
+4508941.3,10,soil,39.75,-84.92,1997.2,EarlhamMetagenomes2012
+4508942.3,10,soil,39.8,-84.92,3888.4,EarlhamMetagenomes2012
+4510162.3,10,sediment,28.74,-88.36,27762.5,BP_Sediments
+4510163.3,10,sediment,28.73,-88.36,14544.6,BP_Sediments
+4510164.3,10,sediment,28.7,-88.37,18850.8,BP_Sediments
+4510165.3,10,sediment,28.74,88.37,16753.9,BP_Sediments
+4510166.3,10,sediment,28.75,-88.36,20590.7,BP_Sediments
+4510168.3,10,sediment,28.74,-88.37,26836.9,BP_Sediments
+4510169.3,10,sediment,28.7, -88.49,18327.9,BP_Sediments
+4510170.3,10,sediment,28.67,-88.44,28746.3,BP_Sediments
+4510171.3,10,sediment,28.64,-88.47,34766.6,BP_Sediments
+4510172.3,10,sediment,28.42,-88.7,35839.6,BP_Sediments
+4510173.3,10,sediment,28.58,-88.54,37220.3,BP_Sediments
+4510174.3,10,sediment,28.51,-88.6,29364.3,BP_Sediments
+4510175.3,10,sediment,28.35,-88.78,29777.8,BP_Sediments
+4510219.3,10,soil,5.29,100.28,56396.8,Penang Mangrove Metagenome
+4511061.3,10,soil,33.74,-117.7,11650.1,Loma_Ridge_grassland
+4516911.3,10,air,40,116.33,9174.8,BeijingǏ_s PM2.5 and PM10 Pollutants
+4536379.3,10,sediment,20.59,-87.17,775.8,Yucatan Groundwater
+4536382.3,10,water,20.37,-87.33,4108.2,Yucatan Groundwater
+4536390.3,10,sediment,20.91,-88.87,1148.9,Yucatan Groundwater
+4537104.3,10,water,71.37,-156.7,2122.2,Arctic young sea ice and frost flower comparison
+4539575.3,10,soil,41.83,-93.01,19954.9,GED prairie unassembled
+4541646.3,10,soil,45.4,-93.2,11702.1,CedarCreek_minsoil_June2013
+4550335.3,10,water,-38.17,148.42,2692.3,Bass Strait oil field metagenomics
+4554155.3,10,soil,0,0,18.4,Arctic soil rerun
+4477872.3,10,soil,35.38,-105.93,680.5,cross-site soil metagen
+4477873.3,10,soil,34.33,-106.73,1112.3,cross-site soil metagen
+4440037.3,10,water,6.39,-162.33,19.8,Northern Line Islands 
+4440039.3,10,water,5.87,-162.13,37.1,Northern Line Islands 
+4440041.3,10,water,1.99,157.48,23.7,Northern Line Islands 
+4440212.3,10,water,5.22,60.27,47.3,cDNA - Plymouth Marine Lab Coastal Waters project
+4440275.3,10,water,64.47,60.27,59.3,cDNA - Plymouth Marine Lab Coastal Waters project
+4440276.3,10,water,-5.22,60.27,68.2,cDNA - Plymouth Marine Lab Coastal Waters project
+4440438.3,10,water,32.6,-117.11,34.8,"Chula Vista, CA Solar Saltern Study"
+4440984.3,10,sediment,35.55,138.88,17.9,Jeffries et al PLoS One
+4441020.3,10,sediment,35.79,139.31,27.3,Jeffries et al PLoS One
+4441021.3,10,sediment,35.94,139.49,30,Jeffries et al PLoS One
+4441022.3,10,sediment,36.17,139.65,28.9,Jeffries et al PLoS One
+4441062.3,10,water,22.75,-158.03,11.8,Microbial Community Genomics at the HOT/ALOHA
+4441091.3,10,soil,43.96,93.66,154.5,Waseca County Farm Soil Metagenome
+4443317.3,10,water,70.41,20.11,57.5,Iquique Oxygen minimum zone Chile
+4443682.3,10,water,78.18,68.4,284.1,Antarctica Aquatic Microbial Metagenome
+4443683.3,10,water,78.18,-68.4,101.3,Antarctica Aquatic Microbial Metagenome
+4443685.3,10,water,78.3,-68.43,28.4,Antarctica Aquatic Microbial Metagenome
+4443686.3,10,water,-66.27,110.53,101.6,Antarctica Aquatic Microbial Metagenome
+4443687.3,10,water,-63.89,112.07,95.7,Antarctica Aquatic Microbial Metagenome
+4443695.3,10,water,7.52,-167,18.3,Marine Bacterioplankton Metagenomes
+4443697.3,10,water,1.67,-163.67,68.1,Marine Bacterioplankton Metagenomes
+4443699.3,10,water,5.08,-161.97,64.8,Marine Bacterioplankton Metagenomes
+4443700.3,10,water,8.63,-161.08,14.3,Marine Bacterioplankton Metagenomes
+4443701.3,10,water,13.48,-159.88,51.9,Marine Bacterioplankton Metagenomes
+4443734.3,10,water,-31.96,15.04,15.8,Surface Water Marine Microbial Community Gene Expression
+4443765.3,10,water,32.87,-117.25,38,Marine Synechococcus Metagenome
+4443766.3,10,water,16,-170,43.6,Marine Bacterioplankton Metagenomes
+4443776.3,10,water,70.8,20.1,80,Iquique Oxygen minimum zone Chile
+4443777.3,10,water,70.79,20.12,89.8,Iquique Oxygen minimum zone Chile
+4445993.3,10,soil,36.49,115.55,133.6,hot_springs-microbial_mat.WGS
+4445994.3,10,soil,36.49,-115.55,254.5,hot_springs-microbial_mat.WGS
+4446153.3,10,soil,18.3,-65.83,322.2,Rain Forest Soil Microbial Communities
+4446341.3,10,sediment,34.95,137.35,19.6,Jeffries et al PLoS One
+4446342.3,10,sediment,33.1,128.02,24.1,Jeffries et al PLoS One
+4448226.3,10,water,13,143.62,35.2,Ultra-micro-sized organisms in deep-sea hydrothermal fluid
+4449103.3,10,water,32.17,-64.5,275.5,BIOS Microbial Oceanography Course
+4449206.3,10,water,-4.87,-75.26,53.5,Project for: Coquito22042010
+4449252.3,10,soil,45.4,-93.27,36.7,"Comparative metagenomic, phylogenetic, and physiological analyses of soil microbial communities across nitrogen gradients"
+4449358.3,10,soil,42.44,-85.38,31,"Comparative metagenomic, phylogenetic, and physiological analyses of soil microbial communities across nitrogen gradients"
+4450123.3,10,soil,13.61,80.59,43.9,Organic carbon transformations in high-Arctic peat soils: key functions and microorganisms
+4450127.3,10,soil,13.48,80.61,56.2,Organic carbon transformations in high-Arctic peat soils: key functions and microorganisms
+4450243.3,10,soil,-46.43,-23.9,209.2,Cubatao_metagenomic
+4465820.3,10,sediment,39.54,-107.72,9002.8,Subsurface Rifle
+4451033.3,10,soil,-46.21,-23.9,58.8,Mangroves
+4451034.3,10,soil,-45.25,-23.9,55.1,Mangroves
+4451035.3,10,soil,-45.25,-25.08,53.3,Mangroves
+4451036.3,10,soil,-47.95,-25.08,48.5,Mangroves
+4451759.3,10,water,29.06,62.72,144,OUTO_deepbiosphere
+4453256.3,10,soil,0.22,51.48,505.5,"Soil microbial community from Rothamsted, Park Grass (METASOIL project)"
+4453374.3,10,water,-41.87,-22.74,45.9,Arenosclera_brasiliensis_metagenome
+4453376.3,10,water,-43.15,-22.92,40.9,Guanabara Bay Metagenome
+4453380.3,10,water,-43.16,-22.86,25.1,Guanabara Bay Metagenome
+4460676.3,10,water,-12.37,-77,154,Peru OMZ - Meteor Cruise M77/3
+4460919.3,10,soil,-46.42,-23.85,305.1,Cubatao_metagenomic
+4461011.3,10,soil,81,27,561.6,Project for: 5mgHCHsoil
+4461675.3,10,water,23.74,90.61,156.8,High Arsenic Well F6
+4465556.3,10,soil,-3.46,36.97,159.9,Fire at Holm-Oak Rhizosphere
+4465558.3,10,soil,-3.46,36.96,80.1,Fire at Holm-Oak Rhizosphere
+4466309.3,10,water,5.87,-162.11,65.8,Pacific Reef Microbiomes
+4466592.3,10,water,-9.92,-150.21,14.9,Pacific Reef Microbiomes
+4466597.3,10,water,-11.44,-151.82,39.3,Pacific Reef Microbiomes
+4466736.3,10,water,-0.38,-160,68.7,Pacific Reef Microbiomes
+4466737.3,10,water,-0.37,-160.01,96.2,Pacific Reef Microbiomes
+4466741.3,10,water,6.39,-162.39,86.2,Pacific Reef Microbiomes
+4466745.3,10,water,1.99,-157.48,61.5,Pacific Reef Microbiomes
+4466809.3,10,water,2.01,-157.49,11.7,Pacific Reef Microbiomes
+4466810.3,10,water,-4.03,-154.95,62.8,Pacific Reef Microbiomes
+4466812.3,10,water,-4,-154.94,16.9,Pacific Reef Microbiomes
+4466814.3,10,water,-5.66,-155.87,11.8,Pacific Reef Microbiomes
+4466820.3,10,water,-5.62,-155.88,35.9,Pacific Reef Microbiomes
+4466825.3,10,water,3.83,-159.35,41.5,Pacific Reef Microbiomes
+4466835.3,10,water,3.84,-159.36,30.4,Pacific Reef Microbiomes
+4466844.3,10,water,-10.06,-152.31,29.7,Pacific Reef Microbiomes
+4466845.3,10,water,4.7,-160.39,16.3,Pacific Reef Microbiomes
+4466846.3,10,water,4.69,-160.42,118,Pacific Reef Microbiomes
+4467029.3,10,water,-8.01,42.15,204.4,Lake Erie Bloom Metagenome
+4467058.3,10,water,31.26,120.12,240.4,Freshwater Microcystis Bloom Metagenomes
+4467059.3,10,water,40.53,-84.5,88.2,Freshwater Microcystis Bloom Metagenomes
+4487624.3,10,water,24.3,121.95,118.8,Kueishantao metagenomes
+4491734.3,10,sediment,11.03,46.5,1190.3,Rotmoosferner glacier cryoconite metagenome
+4511246.3,10,water,43,-91,99.6,M3P 2012
+4511247.3,10,water,44,-91,106.5,M3P 2012
+4511248.3,10,water,47,-95,59.5,M3P 2012
+4511250.3,10,water,45,-94,61.8,M3P 2012
+4511252.3,10,water,44,-93,62.1,M3P 2012
+4511253.3,10,water,43,-93,54.2,M3P 2012
+4511256.3,10,water,44,-92,56.6,M3P 2012
+4516289.3,10,water,-0.32,39.3,98.9,Freshwater_Lagoon_Albufera
+4516291.3,10,water,-0.77,37.73,108.5,Hypersaline_Lagoon_MarMenor
+4528622.3,10,sediment,-1.56,52.38,314.5,Diversity of dimethylsulfide degrading microorganisms in terrestrial environments
+4504797.3,10,soil,41.77,-92.96,907.3,GED Great Prairie Iowa Assembly
+4566594.3,10,sediment,8.59,-84.08,237.7,IODP 334 Site 1378 Sample B4H6
+2013515000,10,Thermal_springs,44.73,-110.4,38.3,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2013843003,10,Thermal_springs,44.73,-110.33,18,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2013954001,10,Thermal_springs,44.73,-110.7,16.2,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2014031005,10,Thermal_springs,44.9,-110.4,16.1,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2014031006,10,Thermal_springs,44.71,-110.74,31.9,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2014031007,10,Thermal_springs,44.53,-110.8,28.6,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2015219000,10,Thermal_springs,44.72,-110.7,17.6,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2015219002,10,Thermal_springs,44.54,-110.8,45.3,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2016842003,10,Thermal_springs,44.53,-110.85,36.3,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2016842004,10,Thermal_springs,44.76,-110.43,38.7,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2016842008,10,Thermal_springs,44.97,-110.71,41.5,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2032320003,10,Soil,36.77,-115.95,123.2,Soil microbial communities from FACE and OTC sites in USA
+2032320004,10,Soil,38.88,-76.55,189.3,Soil microbial communities from FACE and OTC sites in USA
+2032320005,10,Soil,35.9,-84.4,157.7,Soil microbial communities from FACE and OTC sites in USA
+2032320006,10,Soil,35.94,-84.4,130.9,Soil microbial communities from FACE and OTC sites in USA
+2040502001,10,Soil,36,-80.93,143.8,Soil microbial communities from FACE and OTC sites in USA
+2053563014,10,Thermal_springs,40.66,-119.38,48.2,"Hot Spring microbial communities from Great Boiling Spring, Nevada"
+3300000354,10,Non_marine_Saline_and_Alkaline,36.82,-121.74,90.6,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico"
+2051774008,10,Non_marine_Saline_and_Alkaline,41.45,-112.67,99.4,"Saline water microbial communities from Great Salt Lake, Utah"
+2077657018,10,Marine,34.21,-119.5,202.2,"Marine sediment archaeal communities from Santa Barbara Basin, CA, that are anaerobic and methane-oxidizing"
+2088090017,10,Marine,28.67,-88.44,25.3,Marine microbial communities from Deepwater Horizon Oil Spill
+2100351011,10,Marine,74.07,-145.55,386.2,"Coastal water and sediment microbial communities from Arctic Ocean, off the coast from Alaska"
+2124908007,10,Soil,45.68,-89.63,386.8,Soil microbial communities from FACE and OTC sites in USA
+2140918001,10,Thermal_springs,44.73,-110.71,51.5,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+2140918027,10,Non_marine_Saline_and_Alkaline,-68.54,78.18,190.6,Hypersaline microbial communities from Antarctic Deep Lake
+2156126005,10,Marine,25.5,-67.3,131.5,Marine Trichodesmium cyanobacterial communities from the Bermuda Atlantic Time-Series
+2162886008,10,Soil,18.37,-65.72,154.1,"Soil microbial communities from Puerto Rico rain forest, that decompose switchgrass"
+2162886012,10,Soil,42.41,-85.4,178,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan State University, USA"
+2162886013,10,Soil,42.79,-84.39,186.2,"Switchgrass rhizosphere microbial communities from Michigan, USA"
+2189573023,10,Freshwater,41.32,-105.59,268.4,"Freshwater microbial communities from LaBonte Lake, Laramie, Wyoming, USA"
+2263328000,10,Freshwater,49.68,-124.03,436.9,"Freshwater microbial communities from Lake Sakinaw,Canada"
+3300000436,10,Soil,38.71,-109.69,25423.8,Soil microbial communities from four geographically distinct crusts in the Colorado Plateau and Sonoran desert
+3300000167,10,Marine,48.35,-123.29,233.6,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000219,10,Marine,49.28,-134.67,168.6,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000222,10,Marine,48.97,-130.67,174.5,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000226,10,Marine,48.6,-123.5,237.9,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000239,10,Marine,48.57,-123.52,214.7,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000250,10,Marine,50,-145,138.3,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000257,10,Marine,48.35,-123.3,194.5,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000265,10,Marine,48.65,-126.67,161.7,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000323,10,Marine,49.57,-138.67,131.8,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300000343,10,Thermal_springs,44.97,-110.7,17.8,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico"
+2016842001,10,Thermal_springs,44.72,-110.71,16.1,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA"
+3300000522,10,Soil,64.7,-157.75,1158,"Soil microbial communities from permafrost in Bonanza Creek, Alaska"
+3300000571,10,Freshwater,43.29,-73.6,619,"Groundwater microbial communities from coal-tar-waste-contaminated well in S. Glens Falls, New York, USA"
+3300000656,10,Soil,64.49,-157.75,8362.1,"Soil microbial communities from permafrost in Bonanza Creek, Alaska"
+3300000756,10,Freshwater,41.77,-81.73,387.9,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA"
+3300000965,10,Marine,-31.16,110.18,199.6,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000967,10,Marine,14.52,-26,365.9,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000971,10,Marine,15.91,-124.49,425.3,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000974,10,Marine,-29.81,82.62,525.1,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000975,10,Marine,-27.98,63.25,535.9,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000981,10,Marine,-30.33,103.31,598.8,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000994,10,Marine,-31.81,6.84,183.3,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000995,10,Marine,-28.62,-11.8,252.5,Deep ocean microbial communities from the Global Malaspina Expedition
+3300000999,10,Marine,-25.49,-179.52,362.9,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001004,10,Marine,40.83,2.45,500.4,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001006,10,Marine,-32.81,12.77,579.2,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001010,10,Marine,-38.64,150.41,611.3,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001013,10,Marine,-9.12,-30.19,628.9,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001016,10,Marine,-28.41,179.14,709.7,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001031,10,Soil,40.82,-104.77,1044,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001034,10,Soil,39.05,-99.1,1515.3,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001050,10,Soil,39.53,-96.58,436.7,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001051,10,Marine,12,-108.06,433.5,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001058,10,Marine,-33.55,39.89,562,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001060,10,Marine,21.51,-23.45,640.4,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001063,10,Marine,-26.91,-21.43,708,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001068,10,Marine,-15.83,-33.41,935.8,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001074,10,Soil,44.21,-122.13,1535.4,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001076,10,Soil,39.07,-96.58,2456.5,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001105,10,Marine,21.06,-150.35,392.8,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001112,10,Freshwater,48.97,-119.48,431.8,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico"
+3300001114,10,Marine,-5.74,-170.77,435.6,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001115,10,Marine,9.22,-163.53,448.3,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001121,10,Marine,10.09,-99.25,603.4,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001122,10,Marine,-3.03,-27.33,649.5,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001123,10,Marine,32.08,-17.26,636.1,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001125,10,Marine,7.33,-26,683.2,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001126,10,Marine,-22.97,-36.95,763,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001129,10,Marine,-29.65,92.99,921,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001130,10,Non_marine_Saline_and_Alkaline,-77.39,161.93,1035.3,"Hypersaline microbial communities from Lake Vida, Antarctica"
+3300001135,10,Soil,35.91,-79.06,1038.5,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001159,10,Soil,49.08,-89.38,4941.7,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA"
+3300001164,10,Soil,38.88,-120.64,5393.2,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA"
+3300001305,10,Soil,38.99,-123.07,76491.2,"Soil microbial communities from Mediterranean grasslands, California"
+3300001354,10,Marine,54.18,7.9,5509.2,"Pelagic marine microbial communities from the LTER site Helgoland, North Sea, for post-phytoplankton bloom and carbon turnover studies"
+3300001356,10,Soil,50.13,11.88,6921.2,"Peatlands soil microbial communities from Germany and Austria, that are sulfate reducing"
+3300001380,10,Freshwater,43.1,-73.6,3195.2,"Groundwater microbial communities from coal-tar-waste-contaminated well in S. Glens Falls, New York, USA"
+3300001418,10,Soil,71.3,-156.61,2961.6,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA"
+3300001446,10,Non_marine_Saline_and_Alkaline,44.38,-110.69,720.9,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico"
+3300001461,10,Soil,31.11,-95.15,9992.4,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA"
+3300001471,10,Soil,46.42,-83.37,13616.8,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA"
+3300001475,10,Soil,39.24,-121.28,13176.9,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized"
+3300001607,10,Soil,42.53,-72.17,816.9,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001618,10,Soil,42.47,-72.21,1037.2,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001628,10,Soil,42.47,-72.17,1173.4,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001641,10,Soil,42.53,-72.18,1767.1,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001648,10,Soil,42.53,-72.21,1894.5,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001658,10,Soil,42.55,-72.18,2151.5,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies"
+3300001676,10,Marine,-21.99,-176.57,107.9,"Black smokers hydrothermal plume microbial communities from Tui Malila, Lau Basin, Pacific Ocean"
+3300001678,10,Marine,-20.18,-176.6,160.8,"Black smokers hydrothermal plume microbial communities from Mariner, Lau Basin, Pacific Ocean"
+3300001679,10,Marine,-20.68,-176.18,213.6,"Black smokers hydrothermal plume microbial communities from Tahi Moana, Lau Basin, Pacific Ocean"
+3300001680,10,Marine,-20.05,-176.13,317.8,"Black smokers hydrothermal plume microbial communities from Kilo Moana, Pacific Ocean"
+3300001681,10,Marine,-20.11,-176.99,429.1,"Black smokers hydrothermal plume microbial communities from Abe, Lau Basin, Pacific Ocean"
+3300001117,10,Marine,14.53,-118.77,496.1,Deep ocean microbial communities from the Global Malaspina Expedition
+3300001753,10,Marine,34.64,-77.11,10609.1,"Marine sediment microbial communities from White Oak River estuary, North Carolina"
+3300001854,10,Marine,34.65,-77.11,6569,"Marine sediment microbial communities from White Oak River estuary, North Carolina"
+3300002095,10,Freshwater,39.53,-107.78,463.7,"Soil microbial communities from Rifle, Colorado, USA"
+3300002098,10,Freshwater,53.15,13.02,730.9,"Lentic enriched actinobacterial communities from dystrophic bog Grosse Fuchskuhle, Brandenburg, Germany"
+3300002117,10,Soil,43.3,-89.38,2023.4,"Soil microbial communities from Arlington Agricultural Research Station in Wisconsin and Kellogg Biological Station in Michigan, replicating the bioenergy cropping systems trials (BCSTs)"
+3300002128,10,Soil,42.39,-85.37,12160,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA"
+3300002153,10,Marine,73.02,9.86,9239.5,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean
+3300002154,10,Marine,78.87,8.11,10096.2,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean
+3300002158,10,Freshwater,47.77,-86.88,141.9,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA"
+3300002161,10,Freshwater,41.47,-82.85,7281,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA"
+3300002162,10,Soil,71.28,-156.6,3567.7,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA"
+3300002176,10,Marine,0,158,3219.7,Marine microbial communities from oxygen minimum zone in the mesopelagic equatorial Pacific
+3300002178,10,Marine,8,156,3736.3,Marine microbial communities from oxygen minimum zone in the mesopelagic equatorial Pacific
+3300002183,10,Soil,71.27,-156.81,4244.5,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA"
+3300002184,10,Freshwater,42.29,-81.36,8526.7,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA"
+3300002186,10,Marine,71.2,8.87,12312.7,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean
+3300002307,10,Freshwater,53.17,13.03,817.4,"Lentic enriched actinobacterial communities from dystrophic bog Grosse Fuchskuhle, Brandenburg, Germany"
+3300002447,10,Freshwater,43.93,-78,6307.5,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA"
+3300002522,10,Freshwater,-78.08,164.28,32.6,Polar desert microbial communities from Antarctic Dry Valleys
+3300002525,10,Marine,36.25,-122.21,1570.9,"Marine archaeal communities from Monterey Bay, CA, that are ammonia-oxidizing"
+3300002535,10,Freshwater,-78.05,164.11,26.5,Polar desert microbial communities from Antarctic Dry Valleys
+3300002536,10,Freshwater,-78.05,164.02,27.2,Polar desert microbial communities from Antarctic Dry Valleys
+3300002538,10,Soil,71.29,-156.79,3376.5,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA"
+3300002547,10,Freshwater,-78.14,164.12,1314.4,Polar desert microbial communities from Antarctic Dry Valleys
+3300002548,10,Freshwater,-78.05,163.81,2072.5,Polar desert microbial communities from Antarctic Dry Valleys
+3300002672,10,Soil,42.53,-72.19,10.2,AP Microbial Forest Soil metaT PH_DC13_O1375813751538
+3300002756,10,Deep_subsurface,47.38,7.16,844.9,"Deep subsurface microbial communities from Mt. Terri Underground Rock Laboratory, Switzerland, that are autotrophic"
+3300002776,10,Marine,48.73,-123.57,78.8,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean
+3300002908,10,Soil,39.72,-123.65,10237.8,"Grasslands soil microbial communities from the Angelo Coastal Reserve, California, USA"
+3300002913,10,Marine,-37.98,-44.99,5361.3,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool
+3300002917,10,Soil,39.74,-123.63,10681.3,"Grasslands soil microbial communities from the Angelo Coastal Reserve, California, USA"
+3300002919,10,Marine,-37.97,-44.99,2212.4,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool
+3300002956,10,Marine,-38,-45,3944.2,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool
+3300002966,10,Thermal_springs,44.61,-110.44,4478.1,Hot spring microbial communities from Yellowstone National Park that are extremely thermophilic
+3300000397,10,Thermal_springs,44.56,-110.83,33.5,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico"
