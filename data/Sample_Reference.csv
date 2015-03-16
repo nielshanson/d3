@@ -1,0 +1,509 @@
+id,file_name,project,Link,EnvironmentType,EnvironmentType1,EnvironmentType2,EnvironmentType3,EnvironmentType4
+4441137,mgm4441137,Acid Mine Drainage Metagenome,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4441137.3,Engineered,Acid_Mine_Drainage,NA,NA,NA
+4441138,mgm4441138,Acid Mine Drainage Metagenome,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4441138.3,Engineered,Acid_Mine_Drainage,NA,NA,NA
+4480719,mgm4480719,Beer-to-Caproate,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4480764,mgm4480764,Beer-to-Caproate,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4480776,mgm4480776,Beer-to-Caproate,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4480815,mgm4480815,Beer-to-Caproate,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4480859,mgm4480859,Beer-to-Caproate,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+3300001865,imgm_3300001865_biotransfor,"Biofuel bioreactor microbial communities from Berkeley, California, USA - 5 (Biofuel metagenome 5, ASSEMBLY_DATE=20130613)",,Engineered,Contaminated,Bioreactor,Unclassified_Bioreactor,NA
+3300002174,imgm_3300002174_biotransfor,"Biogas fermentation microbial communities from Germany -  Plant 2 DNA2 (Biogas Plant 2 DNA2, ASSEMBLY_DATE=20140114)",,Engineered,Contaminated,Mixed_alcohol_bioreactor,Unclassified_Bioreactor,NA
+3300002164,imgm_3300002164,"Biogas fermentation microbial communities from Germany - Plant 1 DNA2 (Biogas Plant 1 DNA2, ASSEMBLY_DATE=20131118)",,Engineered,Contaminated,Mixed_alcohol_bioreactor,Unclassified_Bioreactor,NA
+3300002173,imgm_3300002173_biotransfor,"Biogas fermentation microbial communities from Germany - Plant 2 DNA1 (Biogas Plant 2 DNA1, ASSEMBLY_DATE=20131127)",,Engineered,Contaminated,Mixed_alcohol_bioreactor,Unclassified_Bioreactor,NA
+3300002168,imgm_3300002168_biotransfor,"Biogas fermentation microbial communities from Germany - Plant 3 DNA2 (Biogas Plant 3 DNA2, ASSEMBLY_DATE=20131203)",,Engineered,Contaminated,Mixed_alcohol_bioreactor,Unclassified_Bioreactor,NA
+3300001368,imgm_3300001368_biotransfor,"Bioreactor microbial communities from Berkeley, California, USA, with various enrichment cultures - Biofuel metagenome 4 (Biofuel Metagenome 4, ASSEMBLY_DATE=20130429)",,Engineered,Contaminated,Bioreactor,Unclassified_Bioreactor,NA
+3300001914,imgm_3300001914_bioremediation,"Bioremediated contaminated groundwater from EPA Superfund site, New Mexico - Sample  HSE6-05 (EPA Superfund site HSE6-05, ASSEMBLY_DATE=20130928)",,Engineered,Contaminated,Tetrachloroethylene_and_derivatives,Tetrachloroethylene,NA
+3300002172,imgm_3300002172_bioremediation,"Bioremediated contaminated groundwater from EPA Superfund site, New Mexico - Sample  SAE3-47 (EPA Superfund site SAE3-47, ASSEMBLY_DATE=20140113)",,Engineered,Contaminated,Tetrachloroethylene_and_derivatives,Tetrachloroethylene,NA
+4498255,mgm4498255,Butyrate-Microbiome,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4498255.3,Engineered,Bioreactor,Anaerobic_Bioreactor,NA,NA
+4498299,mgm4498299,Butyrate-Microbiome,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4498299.3,Engineered,Bioreactor,Anaerobic_Bioreactor,NA,NA
+4498229,mgm4498229,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4498230,mgm4498230,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4498231,mgm4498231,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4498232,mgm4498232,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4498233,mgm4498233,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+4498234,mgm4498234,Butyrate-Microbiome,,Engineered,Bioreactor,Anaerobic_Digester_Sludge,NA,NA
+3300001077,imgm_3300001077_solid_waste,"Cellulose adapted compost microbial communities from Newby Island Compost Facility, Milpitas, CA, USA -  BGW Initial Compost (Cellulose adapted consortia BGW Initial Compost, ASSEMBLY_DATE=20130221)",,Engineered,Solid_waste,Composting,Municipal,NA
+4440438,mgm_454_4440438,"Chula Vista, CA Solar Saltern Study",http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4440438.3,Engineered,Engineered_Aquatic,Engineered_Marine,Evaporation_Pond,NA
+2209111003,imgm_2209111003_solid_waste,"Compost microbial communities from Sao Paulo Zoo, Brazil - ZC1",,Engineered,Solid_waste,Composting,Zoo,NA
+2199352030,imgm_2199352030_solid_waste,"Compost microbial communities from Sao Paulo Zoo, Brazil - ZC2",,Engineered,Solid_waste,Composting,Zoo,NA
+2100351010,imgm_2100351010_bioremediation,Groundwater dechlorinating microbial community from TCA/MEAL culture (TCA/MEAL culture Nov 2010 assembly with PE data),,Engineered,Contaminated,Tetrachloroethylene_and_derivatives,Chloroethene,NA
+4492772,mgm4492772,Hydrocarbon Metagenomics Project,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4492772.3,Engineered,Bioreactor,Anaerobic_Bioreactor,NA,NA
+4492778,mgm4492778,Hydrocarbon Metagenomics Project,http://metagenomics.anl.gov/?page=MetagenomeOverview&metagenome=4507778.3,Engineered,Bioreactor,Anaerobic_Bioreactor,NA,NA
+4507778,mgm4507778,Hydrocarbon Metagenomics Project,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4507778.3,Engineered,Bioreactor,Anaerobic_Bioreactor,NA,NA
+hydro_2012TP6_6m,hydro_2012TP6_6m,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Tailing_Pond,NA
+hydro_604WGA,hydro_604WGA,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Sand,NA
+hydro_614WGA,hydro_614WGA,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Sand,NA
+hydro_CG13,hydro_CG13,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_CG19,hydro_CG19,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_CG7,hydro_CG7,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_CG8,hydro_CG8,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_CO182,hydro_CO182,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_CO183,hydro_CO183,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Coal_bed,NA
+hydro_H1C,hydro_H1C,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Sand,NA
+hydro_H1R,hydro_H1R,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Sand,NA
+hydro_PW_MHGC_2012April10,hydro_PW_MHGC_2012April10,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Field,NA
+hydro_PW_MHGC_2012April2,hydro_PW_MHGC_2012April2,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Oil_Field,NA
+hydro_SyncrudeMLSB2011,hydro_SyncrudeMLSB2011,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Tailing_Pond,NA
+hydro_TP62008_30ft,hydro_TP62008_30ft,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Tailing_Pond,NA
+hydro_TP62010,hydro_TP62010,Hydrocarbon Metagenomics Project,,Engineered,Contaminated,Hydrocarbon,Tailing_Pond,NA
+3300001685,imgm_3300001685,Marine microbial communities from the Santa Barbara Channel oil seeps,,Engineered,Contaminated,Hydrocarbon,Oil_Polluted,NA
+3300001749,imgm_3300001749,Marine microbial communities from the Santa Barbara Channel oil seeps,,Engineered,Contaminated,Hydrocarbon,Oil_Polluted,NA
+3300001750,imgm_3300001750,Marine microbial communities from the Santa Barbara Channel oil seeps,,Engineered,Contaminated,Hydrocarbon,Oil_Polluted,NA
+3300002180,imgm_3300002180,Marine microbial communities from the Santa Barbara Channel oil seeps,,Engineered,Contaminated,Hydrocarbon,Oil_Polluted,NA
+3300002225,imgm_3300002225,Marine microbial communities from the Santa Barbara Channel oil seeps,,Engineered,Contaminated,Hydrocarbon,Oil_Polluted,NA
+2199352012,imgm_2199352012_solid_waste,Mesophilic microbial community from rice straw/compost enrichment Sample: eDNA_1  (Mesophilic 454/Illumina Combined June 2011 assem),,Engineered,Solid_waste,Composting,Grass,NA
+2032320001,imgm_2032320001_bioremediation,"PCE-dechlorinating microbial communities from Ithaca, New York, USA - mixed culture (PCEOT) ",,Engineered,Contaminated,Tetrachloroethylene_and_derivatives,Tetrachloroethylene,NA
+2048955003,imgm_2048955003_solid_waste,"Poplar biomass bioreactor microbial communities from Brookhaven National Lab, NY - total biomass decay community (13 April 2010 assembly with 454 paired-end)",,Engineered,Solid_waste,Composting,Wood,NA
+mount_polley_04,mount_polley_04,,,Engineered,Bioreactor,Aerobic_Bioreactor,Cyanide-Contaminated,NA
+AER1_repl_454,AER1_repl_454,,,Engineered,Bioreactor,Aerobic_Bioreactor,Phosphorus_Removal,NA
+AER2_repl_454,AER2_repl_454,,,Engineered,Bioreactor,Aerobic_Bioreactor,Phosphorus_Removal,NA
+BG_40ft_thick,BG_40ft_thick,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Cyanide-Contaminated_Bioreactor,NA
+BG_new_thick,BG_new_thick,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Cyanide-Contaminated,NA
+mount_polley_01,mount_polley_01,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Cyanide-Contaminated,NA
+mount_polley_02,mount_polley_02,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Cyanide-Contaminated,NA
+mount_polley_03,mount_polley_03,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Cyanide-Contaminated,NA
+ANA1_repl_454,ANA1_repl_454,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Phosphorus_Removal,NA
+ANA3_repl_454,ANA3_repl_454,,,Engineered,Bioreactor,Anaerobic_Bioreactor,Phosphorus_Removal,NA
+ANX1_repl_454,ANX1_repl_454,,,Engineered,Bioreactor,Anoxic_Bioreactor,Phosphorus_Removal,NA
+ANX2_repl_454,ANX2_repl_454,,,Engineered,Bioreactor,Anoxic_Bioreactor,Phosphorus_Removal,NA
+RDX_30_06,RDX_30_06,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_10,RDX_30_10,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_15,RDX_30_15,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_20,RDX_30_20,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_26,RDX_30_26,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_3,RDX_30_3,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_30,RDX_30_30,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+RDX_30_33,RDX_30_33,,,Engineered,Contaminated,Contaminated_Soil,RDX,NA
+4465825,mgrast_4465825_air,Air microbial communities from Singapore,,Environmental,Air,Outdoor_Air,NA,NA
+4465946,mgrast_4465946_air,Air microbial communities from Singapore,,Environmental,Air,Outdoor_Air,NA,NA
+4443682,mgm_sanger_4443682,Antarctica Aquatic Microbial Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443682.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4443683,mgm_sanger_4443683,Antarctica Aquatic Microbial Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443683.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4443685,mgm_sanger_4443685,Antarctica Aquatic Microbial Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443685.3,Environmental,Aquatic,Marine,Coastal,NA
+4443686,mgm_sanger_4443686,Antarctica Aquatic Microbial Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443686.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443687,mgm_sanger_4443687,Antarctica Aquatic Microbial Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443687.3,Environmental,Aquatic,Marine,Open_ocean,NA
+3300001418,imgm_3300001418,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001418,Environmental,Terrestrial,Soil,Peat,NA
+3300002162,imgm_3300002162,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002162,Environmental,Terrestrial,Soil,Peat,NA
+3300002183,imgm_3300002183,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002183,Environmental,Terrestrial,Soil,Peat,NA
+3300002538,imgm_3300002538,"Arctic peat soil microbial communities from the Barrow Environmental Observatory site, Barrow, Alaska, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002538,Environmental,Terrestrial,Soil,Peat,NA
+4554155,mgm_454_4554155,Arctic soil rerun,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4554155.3,Environmental,Terrestrial,Soil,Tundra,NA
+4537104,mgm4537104,Arctic young sea ice and frost flower comparison,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4537104.3,Environmental,Aquatic,Marine,Coastal,Ice
+4550335,mgm4550335,Bass Strait oil field metagenomics,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4550335.3,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+4516911,mgm4516911,Beijing PM2.5 and PM10 Pollutants,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4516911.3,Environmental,Air,Outdoor_Air,NA,
+4516366,mgrast_4516366_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516402,mgrast_4516402_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516403,mgrast_4516403_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516455,mgrast_4516455_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516459,mgrast_4516459_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516594,mgrast_4516594_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516637,mgrast_4516637_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516651,mgrast_4516651_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516802,mgrast_4516802_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4516952,mgrast_4516952_air,Beijing PM2.5 and PM10 Pollutants,,Environmental,Air,Outdoor_Air,Smog,Polluted_City_Air
+4449103,mgm4449103,BIOS Microbial Oceanography Course,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4449103.3,Environmental,Aquatic,Marine,Open_ocean,NA
+3300001681,imgm_3300001681,"Black smokers hydrothermal plume microbial communities from Abe, Lau Basin, Pacific Ocean",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001681,Environmental,Aquatic,Marine,Hydrothermal_vent,NA
+3300001680,imgm_3300001680,"Black smokers hydrothermal plume microbial communities from Kilo Moana, Pacific Ocean",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001680,Environmental,Aquatic,Marine,Hydrothermal_vent,NA
+3300001678,imgm_3300001678,"Black smokers hydrothermal plume microbial communities from Mariner, Lau Basin, Pacific Ocean",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001678,Environmental,Aquatic,Marine,Hydrothermal_vent,NA
+3300001679,imgm_3300001679,"Black smokers hydrothermal plume microbial communities from Tahi Moana, Lau Basin, Pacific Ocean",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001679,Environmental,Aquatic,Marine,Hydrothermal_vent,NA
+3300001676,imgm_3300001676,"Black smokers hydrothermal plume microbial communities from Tui Malila, Lau Basin, Pacific Ocean",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001676,Environmental,Aquatic,Marine,Hydrothermal_vent,NA
+4510162,mgm4510162,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510162.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510163,mgm4510163,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510163.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510164,mgm4510164,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510164.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510165,mgm4510165,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510165.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510166,mgm4510166,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510166.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510168,mgm4510168,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510168.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510169,mgm4510169,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510169.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510170,mgm4510170,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510170.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510171,mgm4510171,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510171.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510172,mgm4510172,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510172.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510173,mgm4510173,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510173.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510174,mgm4510174,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510174.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4510175,mgm4510175,BP_Sediments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510175.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4541646,mgm4541646,CedarCreek_minsoil_June2013,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4541646.3,Environmental,Terrestrial,Soil,Grassland,NA
+2100351011,imgm_2100351011,"Coastal water and sediment microbial communities from Arctic Ocean, off the coast from Alaska",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2100351011,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+4449252,mgm_454_4449252,"Comparative metagenomic, phylogenetic, and physiological analyses of soil microbial communities across nitrogen gradients",http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4449252.3,Environmental,Terrestrial,Soil,Grassland,NA
+4449358,mgm_454_4449358,"Comparative metagenomic, phylogenetic, and physiological analyses of soil microbial communities across nitrogen gradients",http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4449358.3,Environmental,Terrestrial,Soil,Grassland,NA
+3300002128,imgm_3300002128,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002128,Environmental,Terrestrial,Soil,Grassland,NA
+4477804,mgm4477804,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477804.3,Environmental,Terrestrial,Soil,Grassland,NA
+4477805,mgm4477805,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477805.3,Environmental,Terrestrial,Soil,Desert,NA
+4477872,mgm4477872,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477872.3,Environmental,Terrestrial,Soil,Desert,NA
+4477877,mgm4477877,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477877.3,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+4477899,mgm4477899,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477899.3,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+4575382,mgm_4575382_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575382.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+4575383,mgm_4575383_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575383.3,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+4575386,mgm_4575386_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575386.3,Environmental,Terrestrial,Soil,Desert,NA
+4575388,mgm_4575388_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575388.3,Environmental,Terrestrial,Soil,Desert,NA
+4575389,mgm_4575389_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575389.3,Environmental,Terrestrial,Soil,Desert,NA
+4575390,mgm_4575390_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575390.3,Environmental,Terrestrial,Soil,Desert,NA
+4575391,mgm_4575391_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575391.3,Environmental,Terrestrial,Soil,Desert,NA
+4575394,mgm_4575394_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575394.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+4575396,mgm_4575396_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4477873.3,Environmental,Terrestrial,Soil,Desert,NA
+4575397,mgm_4575397_soil,cross-site soil metagen,http://metagenomics.anl.gov/metagenomics.cgi?page=DownloadMetagenome&metagenome=4575397.3,Environmental,Terrestrial,Soil,Tundra,NA
+4450243,mgm4450243,Cubatao_metagenomic,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4450243.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,coastal_plain
+4460919,mgm4460919,Cubatao_metagenomic,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4460919.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,coastal_plain
+3300000965,imgm_3300000965,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000965,Environmental,Aquatic,Marine,Deep_ocean,Indian
+3300000967,imgm_3300000967,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000967,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300000971,imgm_3300000971,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000971,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300000974,imgm_3300000974,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000974,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300000975,imgm_3300000975,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000975,Environmental,Aquatic,Marine,Deep_ocean,Indian
+3300000981,imgm_3300000981,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000981,Environmental,Aquatic,Marine,Deep_ocean,Indian
+3300000994,imgm_3300000994,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000994,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300000995,imgm_3300000995,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000995,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300000999,imgm_3300000999,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000999,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001004,imgm_3300001004,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001004,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001006,imgm_3300001006,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001006,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001010,imgm_3300001010,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001010,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001013,imgm_3300001013,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001013,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001016,imgm_3300001016,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001016,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001051,imgm_3300001051,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001051,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001058,imgm_3300001058,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001058,Environmental,Aquatic,Marine,Deep_ocean,Indian
+3300001060,imgm_3300001060,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001060,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001063,imgm_3300001063,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001063,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001068,imgm_3300001068,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001068,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001105,imgm_3300001105,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001105,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001114,imgm_3300001114,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001114,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001115,imgm_3300001115,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001115,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001117,imgm_3300001117,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001117,Environmental,Aquatic,Marine,Deep_ocean,NA
+3300001121,imgm_3300001121,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001121,Environmental,Aquatic,Marine,Deep_ocean,Pacific
+3300001122,imgm_3300001122,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001122,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001123,imgm_3300001123,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001123,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001125,imgm_3300001125,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001125,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001126,imgm_3300001126,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001126,Environmental,Aquatic,Marine,Deep_ocean,Atlantic
+3300001129,imgm_3300001129,Deep ocean microbial communities from the Global Malaspina Expedition,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001129,Environmental,Aquatic,Marine,Deep_ocean,Indian
+3300002756,imgm_3300002756,"Deep subsurface microbial communities from Mt. Terri Underground Rock Laboratory, Switzerland, that are autotrophic",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002756,Environmental,Terrestrial,Soil,Deep_subsurface,300m
+4528622,mgm4528622_assem,Diversity of dimethylsulfide degrading microorganisms in terrestrial environments,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4528622.3,Environmental,Terrestrial,Sediment,Freshwater_Sediment,NA
+4508941,mgm4508941,EarlhamMetagenomes2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4508941.3,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+4508942,mgm4508942,EarlhamMetagenomes2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4508942.3,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+4465556,mgm4465556,Fire at Holm-Oak Rhizosphere,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4465556.3,Environmental,Terrestrial,Soil,Mediterranean_Forest,NA
+4465558,mgm4465558,Fire at Holm-Oak Rhizosphere,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4465558.3,Environmental,Terrestrial,Soil,Mediterranean_Forest,NA
+3300001159,imgm_3300001159,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001159,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001164,imgm_3300001164,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001164,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001461,imgm_3300001461,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001461,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001471,imgm_3300001471,"Forest soil microbial communities from Douglas fir zone in British Columbia and Gulf Coastal Plain in Texas, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001471,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001607,imgm_3300001607,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001607,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001618,imgm_3300001618,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001618,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001628,imgm_3300001628,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001628,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001641,imgm_3300001641,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001641,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001648,imgm_3300001648,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001648,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300001658,imgm_3300001658,"Forest soil microbial communities from Harvard Forest Long Term Ecological Research (LTER) site in Petersham, MA, for long-term soil warming studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001658,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+ncbi_whale_fall_3,ncbi_whale_fall_3,"Fossil microbial communities from Whale Fall, Santa Cruz Basin - Microbial Mat Sample",,Environmental,Aquatic,Marine,Whale_Fall,NA
+ncbi_whale_fall_2,ncbi_whale_fall_2,"Fossil microbial communities from Whale Fall, Santa Cruz Basin of the Pacific Ocean - Bone",,Environmental,Aquatic,Marine,Whale_Fall,NA
+ncbi_whale_fall_1,ncbi_whale_fall_1,"Fossil microbial communities from Whale Fall, Santa Cruz Basin, Pacific Ocean - Rib Bone Sample",,Environmental,Aquatic,Marine,Whale_Fall,NA
+3300000756,imgm_3300000756,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000756,Environmental,Aquatic,Freshwater,Lentic,dead_zone
+3300002158,imgm_3300002158,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002158,Environmental,Aquatic,Freshwater,Lentic,NA
+3300002161,imgm_3300002161,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002161,Environmental,Aquatic,Freshwater,Lentic,dead_zone
+3300002184,imgm_3300002184,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002184,Environmental,Aquatic,Freshwater,Lentic,ice
+3300002447,imgm_3300002447,"Freshwater and sediment microbial communities from a dead zone in Lake Erie, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002447,Environmental,Aquatic,Freshwater,Lentic,epilimnion
+2189573023,imgm_2189573023,"Freshwater microbial communities from LaBonte Lake, Laramie, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2189573023,Environmental,Aquatic,Freshwater,Lentic,NA
+2263328000,imgm_2263328000,"Freshwater microbial communities from Lake Sakinaw,Canada",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2263328000,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+4467058,mgm4467058,Freshwater Microcystis Bloom Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4467058.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4467059,mgm_454_4467059,Freshwater Microcystis Bloom Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4467059.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4516289,mgm4516289,Freshwater_Lagoon_Albufera,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4516289.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4504797,mgm4504797_assem,GED Great Prairie Iowa Assembly,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4504797.3,Environmental,Terrestrial,Soil,Grassland,NA
+4539575,mgm4539575,GED prairie unassembled,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4539575.3,Environmental,Terrestrial,Soil,Grassland,NA
+3300002908,imgm_3300002908,"Grasslands soil microbial communities from the Angelo Coastal Reserve, California, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002908,Environmental,Terrestrial,Soil,Grassland,NA
+3300002917,imgm_3300002917,"Grasslands soil microbial communities from the Angelo Coastal Reserve, California, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002917,Environmental,Terrestrial,Soil,Grassland,NA
+3300000571,imgm_3300000571,"Groundwater microbial communities from coal-tar-waste-contaminated well in S. Glens Falls, New York, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000571,Environmental,Aquatic,Freshwater,Groundwater,5.4m
+3300001380,imgm_3300001380,"Groundwater microbial communities from coal-tar-waste-contaminated well in S. Glens Falls, New York, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001380,Environmental,Aquatic,Freshwater,Groundwater,5.8m_contaminated
+4453376,mgm_454_4453376,Guanabara Bay Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4453376.3,Environmental,Aquatic,Marine,Coastal,NA
+4453380,mgm_454_4453380,Guanabara Bay Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4453380.3,Environmental,Aquatic,Marine,Coastal,NA
+4461675,mgm4461675,High Arsenic Well F6,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4461675.3,Environmental,Aquatic,Freshwater,Groundwater,NA
+2053563014,imgm_2053563014,"Hot Spring microbial communities from Great Boiling Spring, Nevada",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2053563014,Environmental,Terrestrial,Sediment,Non_marine_saline_lake_Sediment,NA
+3300002966,imgm_3300002966,Hot spring microbial communities from Yellowstone National Park that are extremely thermophilic,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002966,Environmental,Aquatic,Thermal_springs,Water,NA
+2013515000,imgm_2013515000,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2013515000,Environmental,Aquatic,Thermal_springs,Water,NA
+2013843003,imgm_2013843003,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2013843003,Environmental,Aquatic,Thermal_springs,Water,NA
+2013954001,imgm_2013954001,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2013954001,Environmental,Aquatic,Thermal_springs,Water,NA
+2014031005,imgm_2014031005,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2014031005,Environmental,Aquatic,Thermal_springs,Water,NA
+2014031006,imgm_2014031006,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2014031006,Environmental,Aquatic,Thermal_springs,Water,NA
+2014031007,imgm_2014031007,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2014031007,Environmental,Aquatic,Thermal_springs,Water,NA
+2015219000,imgm_2015219000,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2015219000,Environmental,Aquatic,Thermal_springs,Water,NA
+2015219002,imgm_2015219002,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2015219002,Environmental,Aquatic,Thermal_springs,Water,NA
+2016842001,imgm_2016842001,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2016842001,Environmental,Aquatic,Thermal_springs,Water,NA
+2016842003,imgm_2016842003,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2016842003,Environmental,Aquatic,Thermal_springs,Water,NA
+2016842004,imgm_2016842004,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2016842004,Environmental,Aquatic,Thermal_springs,Water,NA
+2016842008,imgm_2016842008,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2016842008,Environmental,Aquatic,Thermal_springs,Microbial_mat,NA
+2140918001,imgm_2140918001,"Hot spring microbial communities from Yellowstone National Park, Wyoming, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2140918001,Environmental,Aquatic,Thermal_springs,Water,NA
+4445993,mgm4445993,hot_springs-microbial_mat.WGS,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4445993.3,Environmental,Aquatic,Thermal_springs,Microbial_mat,NA
+4445994,mgm4445994,hot_springs-microbial_mat.WGS,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4445994.3,Environmental,Aquatic,Thermal_springs,Microbial_mat,NA
+3300000354,imgm_3300000354,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000354,Environmental,Aquatic,Non_marine_saline_lake,Lentic,NA
+3300001112,imgm_3300001112,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001112,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,hypersaline_mat
+3300001446,imgm_3300001446,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001446,Environmental,Aquatic,Non_marine_saline_lake,Lentic,NA
+3300000343,imgm_3300000343,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000343,Environmental,Aquatic,Thermal_springs,Water,NA
+3300000397,imgm_3300000397,"Hypersaline mat microbial communities from extreme environments in Yellowstone National Park, Wyoming, Hot Lake, Washington, and Elkhorn Slough, California, USA and Guerrero Negro, Mexico",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000397,Environmental,Aquatic,Thermal_springs,Water,NA
+2140918027,imgm_2140918027,Hypersaline microbial communities from Antarctic Deep Lake,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2140918027,Environmental,Aquatic,Non_marine_saline_lake,Lentic,36m
+3300001130,imgm_3300001130,"Hypersaline microbial communities from Lake Vida, Antarctica",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001130,Environmental,Aquatic,Non_marine_saline_lake,Lentic,NA
+4516291,mgm4516291,Hypersaline_Lagoon_MarMenor,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4516291.3,Environmental,Aquatic,Freshwater,Groundwater,NA
+4566594,mgm4566594_assem,IODP 334 Site 1378 Sample B4H6,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4566594.3,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+4440984,mgm_454_4440984,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4440984.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4441020,mgm_454_4441020,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4441020.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4441021,mgm_454_4441021,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4441021.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4441022,mgm_454_4441022,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4441022.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4446341,mgm_454_4446341,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4446341.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4446342,mgm_454_4446342,Jeffries et al PLoS One,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4446342.3,Environmental,Terrestrial,Sediment,Marine_Sediment,Benthic
+4487624,mgm_454_4487624,Kueishantao metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4487624.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4467029,mgm4467029,Lake Erie Bloom Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4467029.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4511061,mgm4511061,Loma_Ridge_grassland,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511061.3,Environmental,Terrestrial,Soil,Grassland,NA
+4511246,mgm4511246_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511246.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511247,mgm4511247_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511247.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511248,mgm4511248_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511248.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511250,mgm4511250_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511250.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511252,mgm4511252_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511252.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511253,mgm4511253_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511253.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4511256,mgm4511256_assem,M3P 2012,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4511256.3,Environmental,Aquatic,Freshwater,Lentic,Surface
+4451033,mgm4451033,Mangroves,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4451033.3,Environmental,Terrestrial,Sediment,Marine_Sediment,intertidal_zone
+4451034,mgm4451034,Mangroves,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4451034.3,Environmental,Terrestrial,Sediment,Marine_Sediment,intertidal_zone
+4451035,mgm_454_4451035,Mangroves,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4451035.3,Environmental,Terrestrial,Sediment,Marine_Sediment,intertidal_zone
+4451036,mgm_454_4451036,Mangroves,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4451036.3,Environmental,Terrestrial,Sediment,Marine_Sediment,intertidal_zone
+3300002525,imgm_3300002525,"Marine archaeal communities from Monterey Bay, CA, that are ammonia-oxidizing",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002525,Environmental,Aquatic,Marine,Coastal,NA
+4443695,mgm_454_4443695,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443695.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443697,mgm4443697,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443697.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443699,mgm4443699,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443699.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443700,mgm_454_4443700,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443700.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443701,mgm4443701,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443701.3,Environmental,Aquatic,Marine,Open_ocean,NA
+4443766,mgm_454_4443766,Marine Bacterioplankton Metagenomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443766.3,Environmental,Aquatic,Marine,Open_ocean,NA
+3300002153,imgm_3300002153,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002153,Environmental,Aquatic,Marine,Open_ocean,20m
+3300002154,imgm_3300002154,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002154,Environmental,Aquatic,Marine,Open_ocean,30m
+3300002186,imgm_3300002186,Marine eukaryotic phytoplankton communities from the Norwegian Sea and Atlantic Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002186,Environmental,Aquatic,Marine,Open_ocean,10m
+2088090017,imgm_2088090017,Marine microbial communities from Deepwater Horizon Oil Spill,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2088090017,Environmental,Aquatic,Marine,Deep_ocean,Oil_spill_plume
+3300000167,imgm_3300000167,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000167,Environmental,Aquatic,Marine,OMZ,120m
+3300000219,imgm_3300000219,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000219,Environmental,Aquatic,Marine,OMZ,1000m
+3300000222,imgm_3300000222,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000222,Environmental,Aquatic,Marine,OMZ,500m
+3300000226,imgm_3300000226,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000226,Environmental,Aquatic,Marine,OMZ,135m
+3300000239,imgm_3300000239,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000239,Environmental,Aquatic,Marine,OMZ,120m
+3300000250,imgm_3300000250,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000250,Environmental,Aquatic,Marine,OMZ,1000m
+3300000257,imgm_3300000257,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000257,Environmental,Aquatic,Marine,OMZ,100m
+3300000265,imgm_3300000265,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000265,Environmental,Aquatic,Marine,OMZ,10m
+3300000323,imgm_3300000323,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000323,Environmental,Aquatic,Marine,OMZ,1000m
+3300002776,imgm_3300002776,Marine microbial communities from expanding oxygen minimum zones in the northeastern subarctic Pacific Ocean,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002776,Environmental,Aquatic,Marine,OMZ,150m
+3300002176,imgm_3300002176,Marine microbial communities from oxygen minimum zone in the mesopelagic equatorial Pacific,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002176,Environmental,Aquatic,Marine,OMZ,50m
+3300002178,imgm_3300002178,Marine microbial communities from oxygen minimum zone in the mesopelagic equatorial Pacific,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002178,Environmental,Aquatic,Marine,OMZ,150m
+3300002913,imgm_3300002913,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002913,Environmental,Aquatic,Marine,Open_ocean,AAIW
+3300002919,imgm_3300002919,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002919,Environmental,Aquatic,Marine,Open_ocean,Bottom
+3300002956,imgm_3300002956,Marine microbial communities from the Southern Atlantic Ocean affecting the dissolved organic carbon pool,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002956,Environmental,Aquatic,Marine,Open_ocean,250m
+2077657018,imgm_2077657018,"Marine sediment archaeal communities from Santa Barbara Basin, CA, that are anaerobic and methane-oxidizing",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2077657018,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+3300001753,imgm_3300001753,"Marine sediment microbial communities from White Oak River estuary, North Carolina",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001753,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+3300001854,imgm_3300001854,"Marine sediment microbial communities from White Oak River estuary, North Carolina",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001854,Environmental,Terrestrial,Sediment,Marine_Sediment,NA
+2156126005,imgm_2156126005,Marine Trichodesmium cyanobacterial communities from the Bermuda Atlantic Time-Series,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2156126005,Environmental,Aquatic,Marine,Open_ocean,NA
+4441062,mgm4441062,Microbial Community Genomics at the HOT/ALOHA,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4441062.3,Environmental,Aquatic,Marine,OMZ,770m
+2162886012,imgm_2162886012,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan State University, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2162886012,Environmental,Terrestrial,Soil,Agricultural,NA
+4440037,mgm_454_4440037,Northern Line Islands,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4440037.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4440039,mgm_454_4440039,Northern Line Islands,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4440039.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4440041,mgm_454_4440041,Northern Line Islands,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4440041.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4450123,mgm_454_4450123,Organic carbon transformations in high-Arctic peat soils: key functions and microorganisms,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4450123.3,Environmental,Terrestrial,Soil,Peat,NA
+4450127,mgm4450127,Organic carbon transformations in high-Arctic peat soils: key functions and microorganisms,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4450127.3,Environmental,Terrestrial,Soil,Peat,NA
+4451759,mgm4451759,OUTO_deepbiosphere,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4451759.3,Environmental,Aquatic,Freshwater,Lentic,NA
+4466309,mgm4466309,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466309.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466592,mgm_454_4466592,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466592.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466597,mgm_454_4466597,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466597.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466736,mgm4466736,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466736.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466737,mgm4466737,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466737.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466741,mgm4466741,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466741.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466745,mgm_454_4466745,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466745.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466809,mgm_454_4466809,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466809.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466810,mgm4466810,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466810.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466812,mgm_454_4466812,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466812.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466814,mgm_454_4466814,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466814.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466820,mgm_454_4466820,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466820.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466825,mgm_454_4466825,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466825.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466835,mgm_454_4466835,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466835.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466844,mgm_454_4466844,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466844.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466845,mgm_454_4466845,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466845.3,Environmental,Aquatic,Marine,Coral_reef,NA
+4466846,mgm4466846,Pacific Reef Microbiomes,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4466846.3,Environmental,Aquatic,Marine,Coral_reef,NA
+3300001356,imgm_3300001356,"Peatlands soil microbial communities from Germany and Austria, that are sulfate reducing",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001356,Environmental,Terrestrial,Soil,Peat,NA
+3300001354,imgm_3300001354,"Pelagic marine microbial communities from the LTER site Helgoland, North Sea, for post-phytoplankton bloom and carbon turnover studies",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001354,Environmental,Aquatic,Marine,Open_ocean,NA
+4510219,mgm4510219,Penang Mangrove Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4510219.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+4460676,mgm4460676,Peru OMZ - Meteor Cruise M77/3,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4460676.3,Environmental,Aquatic,Marine,OMZ,80m
+3300002522,imgm_3300002522,Polar desert microbial communities from Antarctic Dry Valleys,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002522,Environmental,Aquatic,Freshwater,Ice,NA
+3300002535,imgm_3300002535,Polar desert microbial communities from Antarctic Dry Valleys,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002535,Environmental,Aquatic,Freshwater,Ice,NA
+3300002536,imgm_3300002536,Polar desert microbial communities from Antarctic Dry Valleys,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002536,Environmental,Aquatic,Freshwater,Ice,NA
+3300002547,imgm_3300002547,Polar desert microbial communities from Antarctic Dry Valleys,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002547,Environmental,Aquatic,Freshwater,Ice,NA
+3300002548,imgm_3300002548,Polar desert microbial communities from Antarctic Dry Valleys,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002548,Environmental,Aquatic,Freshwater,Ice,NA
+4461011,mgm4461011,Project for: 5mgHCHsoil,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4461011.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+4449206,mgm_454_4449206,Project for: Coquito22042010,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4449206.3,Environmental,Aquatic,Thermal_springs,Water,acid_hot_spring
+4446153,mgm4446153,Rain Forest Soil Microbial Communities,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4446153.3,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+4491734,mgm4491734,Rotmoosferner glacier cryoconite metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4491734.3,Environmental,Terrestrial,Sediment,Freshwater_Sediment,Cryoconite
+2051774008,imgm_2051774008,"Saline water microbial communities from Great Salt Lake, Utah",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2051774008,Environmental,Aquatic,Non_marine_saline_lake,Lentic,NA
+3300001031,imgm_3300001031,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001031,Environmental,Terrestrial,Soil,Grassland,NA
+3300001034,imgm_3300001034,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001034,Environmental,Terrestrial,Soil,Grassland,NA
+3300001050,imgm_3300001050,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001050,Environmental,Terrestrial,Soil,Grassland,NA
+3300001074,imgm_3300001074,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001074,Environmental,Terrestrial,Soil,Grassland,NA
+3300001076,imgm_3300001076,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001076,Environmental,Terrestrial,Soil,Grassland,NA
+3300001135,imgm_3300001135,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001135,Environmental,Terrestrial,Soil,Grassland,NA
+3300001475,imgm_3300001475,"Soil microbial communities from 10 grassland sites in CA, CO, KS, KY, MN, MO, NM, SC, TX, that have been nitrogen fertilized",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001475,Environmental,Terrestrial,Soil,Grassland,NA
+3300002117,imgm_3300002117,"Soil microbial communities from Arlington Agricultural Research Station in Wisconsin and Kellogg Biological Station in Michigan, replicating the bioenergy cropping systems trials (BCSTs)",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002117,Environmental,Terrestrial,Soil,Agricultural,NA
+2032320003,imgm_2032320003,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2032320003,Environmental,Terrestrial,Soil,Desert,NA
+2032320004,imgm_2032320004,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2032320004,Environmental,Terrestrial,Soil,Desert,NA
+2032320005,imgm_2032320005,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2032320005,Environmental,Terrestrial,Soil,Desert,NA
+2032320006,imgm_2032320006,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2032320006,Environmental,Terrestrial,Soil,Desert,NA
+2040502001,imgm_2040502001,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2040502001,Environmental,Terrestrial,Soil,Desert,NA
+2124908007,imgm_2124908007,Soil microbial communities from FACE and OTC sites in USA,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2124908007,Environmental,Terrestrial,Soil,Desert,NA
+3300000436,imgm_3300000436,Soil microbial communities from four geographically distinct crusts in the Colorado Plateau and Sonoran desert,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300000436,Environmental,Terrestrial,Soil,Desert,NA
+3300001305,imgm_3300001305,"Soil microbial communities from Mediterranean grasslands, California",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300001305,Environmental,Terrestrial,Soil,Grassland,NA
+2162886008,imgm_2162886008,"Soil microbial communities from Puerto Rico rain forest, that decompose switchgrass",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2162886008,Environmental,Terrestrial,Soil,Sub_Tropical_Forest,NA
+3300002095,imgm_3300002095,"Soil microbial communities from Rifle, Colorado, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002095,Environmental,Aquatic,Freshwater,Groundwater,Oxygen_Injected
+4453256,mgm4453256,"Soil microbial community from Rothamsted, Park Grass (METASOIL project)",http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4453256.3,Environmental,Terrestrial,Soil,Grassland,NA
+4465820,mgm4465820,Subsurface Rifle,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4465820.3,Environmental,Terrestrial,Sediment,Freshwater_Sediment,NA
+4443734,mgm_454_4443734,Surface Water Marine Microbial Community Gene Expression,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443734.3,Environmental,Aquatic,Marine,Open_ocean,NA
+2162886013,imgm_2162886013,"Switchgrass rhizosphere microbial communities from Michigan, USA",https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=2162886013,Environmental,Terrestrial,Soil,Grassland,NA
+4481963,mgm4481963,Tongue_all_2011,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4481963.3,Environmental,Terrestrial,Sediment,Freshwater_Sediment,NA
+4448226,mgm_454_4448226,Ultra-micro-sized organisms in deep-sea hydrothermal fluid,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4448226.3,Environmental,Aquatic,Marine,Hydrothermal_vent,hydrothermal_fluid
+3300003164,imgm_3300003164_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003166,imgm_3300003166,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003167,imgm_3300003167_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003168,imgm_3300003168_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003170,imgm_3300003170_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003171,imgm_3300003171_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003172,imgm_3300003172_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003338,imgm_3300003338_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003340,imgm_3300003340_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003416,imgm_3300003416_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+3300003417,imgm_3300003417_air_outdoor,Upper troposphere microbial communities above oceans and continental USA that affect ice or cloud condensation nuclei,,Environmental,Air,Outdoor_Air,Upper_Troposphere,NA
+4441091,mgm_sanger_4441091,Waseca County Farm Soil Metagenome,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4441091.3,Environmental,Terrestrial,Soil,Agricultural,NA
+4536382,mgm4536382,Yucatan Groundwater,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4536382.3,Environmental,Aquatic,Freshwater,Groundwater,NA
+4536379,mgm4536379,Yucatan Groundwater,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4536379.3,Environmental,Terrestrial,Sediment,Non_marine_saline_lake_Sediment,NA
+4536390,mgm4536390,Yucatan Groundwater,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4536390.3,Environmental,Terrestrial,Sediment,Non_marine_saline_lake_Sediment,Sulphate_reducing
+Pitch_Lake,Pitch_Lake,,,Environmental,Aquatic,Ashphalt_Lake,NA,NA
+Sak_2011_120m_454,Sak_2011_120m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+Sak_2011_33m_454,Sak_2011_33m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+Sak_2011_36m_454,Sak_2011_36m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+Sak_2011_50m_454,Sak_2011_50m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+Sak_2011_55m_454,Sak_2011_55m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+Sak_2011_60m_454,Sak_2011_60m_454,,,Environmental,Aquatic,Non_marine_saline_lake,Meromictic,NA
+3300002672,imgm_3300002672,,https://img.jgi.doe.gov/cgi-bin/m/main.cgi?section=TaxonDetail&page=taxonDetail&taxon_oid=3300002672,Environmental,Terrestrial,Soil,Temperate_Forest,NA
+3300002222,img_3300002222_porifera,"Aplysina aerophoba microbial communities from Gulf of Piran - sponge pinacoderm, lysed by bead beating (PinacodermBB, ASSEMBLY_DATE=20140105)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+3300000041,imgm_3300000041_plants,"Arabidopsis rhizosphere microbial communities from the University of North Carolina - sample from Arabidopsis cpr5 old rhizosphere (Arabidopsis cpr5 old rhizosphere, Nov 2011 assem)",,Host_Associated,Plants,Rhizosphere,Arabidopsis,NA
+3300002739,imgm_3300002739,"Arabidopsis, maize, boechera and miscanthus rhizosphere microbial communities from New York and Illinois",,Host_Associated,Plants,Rhizosphere,Arabidopsis,Epiphytes
+3300002772,imgm_3300002772,"Arabidopsis, maize, boechera and miscanthus rhizosphere microbial communities from New York and Illinois",,Host_Associated,Plants,Rhizosphere,Arabidopsis,Epiphytes
+3300002773,imgm_3300002773,"Arabidopsis, maize, boechera and miscanthus rhizosphere microbial communities from New York and Illinois",,Host_Associated,Plants,Rhizosphere,Arabidopsis,Epiphytes
+3300002774,imgm_3300002774,"Arabidopsis, maize, boechera and miscanthus rhizosphere microbial communities from New York and Illinois",,Host_Associated,Plants,Rhizosphere,Arabidopsis,Epiphytes
+2019105001,imgm_2019105001,Canis familiaris fecal microbial communities from the University of Illinois at Urbana-Champaign,,Host_Associated,Mammals,Carnivores,Domestic_dog,NA
+2019105002,imgm_2019105002,Canis familiaris fecal microbial communities from the University of Illinois at Urbana-Champaign,,Host_Associated,Mammals,Carnivores,Domestic_dog,NA
+3300001456,imgm_3300001456,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",,Host_Associated,Plants,Rhizosphere,Miscanthus,Epiphytes
+3300001904,imgm_3300001904,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",,Host_Associated,Plants,Rhizosphere,Corn,Epiphytes
+3300001990,imgm_3300001990,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",,Host_Associated,Plants,Rhizosphere,Corn,Epiphytes
+3300002067,imgm_3300002067,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",,Host_Associated,Plants,Rhizosphere,Miscanthus,Epiphytes
+3300002155,imgm_3300002155,"Corn, switchgrass and miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA",,Host_Associated,Plants,Rhizosphere,Corn,Epiphytes
+3300001542,imgm_3300001542,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300001545,imgm_3300001545,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002119,imgm_3300002119,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002449,imgm_3300002449,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002501,imgm_3300002501,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002507,imgm_3300002507,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002508,imgm_3300002508,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300002552,imgm_3300002552,"Cubitermes and Nasutitermes termite gut microbial communities from Max Planck Institute for Terrestrial Microbiology, Germany",,Host_Associated,Insect_Gut,Termite_Gut,NA,NA
+3300000333,imgm_3300000333,European and Africanized bee gut microbial communities from the USDA-ARS Beltsville Bee Research Center,,Host_Associated,Insect_Gut,Bee,NA,NA
+2088090036,img_2088090036_birds,"Hoatzin crop microbial communities from Cojedes, Venezuel, sample from Protozoan 21 (Protozoan 21 MDA)",,Host_Associated,Birds,Digestive_system,Hoatzin,NA
+3300000035,img_3300000035_birds,"Hoatzin crop microbial communities from Cojedes, Venezuela - Epithelial fraction 12 (Hoatzin crop microbiome epithelium fraction 12 (Dec 2011 assem Abyss hiseq+gaii))",,Host_Associated,Birds,Epithelium,Hoatzin,NA
+2100351002,img_2100351002_birds,"Hoatzin crop microbial communities from Cojedes, Venezuela, sample from fiber fraction 12 (Fiber fraction 12 combined assembly)",,Host_Associated,Birds,Digestive_system,Hoatzin,NA
+2088090016,img_2088090016_birds,"Hoatzin crop microbial communities from Cojedes, Venezuela, sample from fiber fraction 14 (Fiber fraction 14 combined assembly)",,Host_Associated,Birds,Digestive_system,Hoatzin,NA
+2166559020,imgm_2166559020,"Honey bee gut microbial communities from Carl Hayden Bee Research Center, Tucson, Arizona, USA",,Host_Associated,Insect_Gut,Bee,NA,NA
+3300002150,img_3300002150_porifera,"Host-associated microbial community of the marine sponge Aplysina aerophoba from Gulf of Piran - sponge mesohyl, lysed by bead beating (MesohylBB, ASSEMBLY_DATE=20131203)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+3300002147,imgm_3300002147_porifera,"Host-associated microbial community of the marine sponge Aplysina aerophoba from Gulf of Piran - sponge mesohyl, lysed by freeze-thaw cycling (MesohylFT, ASSEMBLY_DATE=20131203)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+3300002151,img_3300002151_porifera,"Host-associated microbial community of the marine sponge Aplysina aerophoba from Gulf of Piran - sponge mesohyl, lysed by proteinase K digestion (MesohylPK, ASSEMBLY_DATE=20131203)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+3300002159,img_3300002159_porifera,"Host-associated microbial community of the marine sponge Aplysina aerophoba from Gulf of Piran - sponge pinacoderm, lysed by freeze-thaw cycling (PinacodermFT, ASSEMBLY_DATE=20140105)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+3300002160,img_3300002160_porifera,"Host-associated microbial community of the marine sponge Aplysina aerophoba from Gulf of Piran - sponge pinacoderm, lysed by proteinase K digestion (PinacodermPK, ASSEMBLY_DATE=20140105)",,Host_Associated,Porifera,Unclassified_Porifera,NA,NA
+hmp_airways_SRS014682,hmp_airways_SRS014682,Human Microbiome Project,,Host_Associated,Mammals,Human,Airway,NA
+hmp_airways_SRS015996,hmp_airways_SRS015996,Human Microbiome Project,,Host_Associated,Mammals,Human,Airway,NA
+hmp_airways_SRS019986,hmp_airways_SRS019986,Human Microbiome Project,,Host_Associated,Mammals,Human,Airway,NA
+hmp_airways_SRS044474,hmp_airways_SRS044474,Human Microbiome Project,,Host_Associated,Mammals,Human,Airway,NA
+hmp_airways_SRS047225,hmp_airways_SRS047225,Human Microbiome Project,,Host_Associated,Mammals,Human,Airway,NA
+hmp_oral_cavity_dorsum_SRS013705,hmp_oral_cavity_dorsum_SRS013705,Human Microbiome Project,,Host_Associated,Mammals,Human,Oral_Cavity,NA
+hmp_oral_cavity_dorsum_SRS050244,hmp_oral_cavity_dorsum_SRS050244,Human Microbiome Project,,Host_Associated,Mammals,Human,Oral_Cavity,NA
+hmp_oral_cavity_dorsum_SRS063932,hmp_oral_cavity_dorsum_SRS063932,Human Microbiome Project,,Host_Associated,Mammals,Human,Oral_Cavity,NA
+hmp_oral_cavity_mucosa_SRS015985,hmp_oral_cavity_mucosa_SRS015985,Human Microbiome Project,,Host_Associated,Mammals,Human,Oral_Cavity,NA
+hmp_oral_cavity_mucosa_SRS043422,hmp_oral_cavity_mucosa_SRS043422,Human Microbiome Project,,Host_Associated,Mammals,Human,Oral_Cavity,NA
+hmp_skin_left_SRS017849,hmp_skin_left_SRS017849,Human Microbiome Project,,Host_Associated,Mammals,Human,Skin,NA
+hmp_skin_left_SRS019063,hmp_skin_left_SRS019063,Human Microbiome Project,,Host_Associated,Mammals,Human,Skin,NA
+hmp_skin_right_SRS019064,hmp_skin_right_SRS019064,Human Microbiome Project,,Host_Associated,Mammals,Human,Skin,NA
+hmp_skin_right_SRS019116,hmp_skin_right_SRS019116,Human Microbiome Project,,Host_Associated,Mammals,Human,Skin,NA
+hmp_skin_right_SRS058182,hmp_skin_right_SRS058182,Human Microbiome Project,,Host_Associated,Mammals,Human,Skin,NA
+hmp_stool_SRS012273,hmp_stool_SRS012273,Human Microbiome Project,,Host_Associated,Mammals,Human,Gut,NA
+hmp_stool_SRS020233,hmp_stool_SRS020233,Human Microbiome Project,,Host_Associated,Mammals,Human,Gut,NA
+hmp_stool_SRS022609,hmp_stool_SRS022609,Human Microbiome Project,,Host_Associated,Mammals,Human,Gut,NA
+hmp_stool_SRS024132,hmp_stool_SRS024132,Human Microbiome Project,,Host_Associated,Mammals,Human,Gut,NA
+hmp_stool_SRS049959,hmp_stool_SRS049959,Human Microbiome Project,,Host_Associated,Mammals,Human,Gut,NA
+hmp_vagina_in_SRS015071,hmp_vagina_in_SRS015071,Human Microbiome Project,,Host_Associated,Mammals,Human,Vagina,NA
+hmp_vagina_in_SRS062752,hmp_vagina_in_SRS062752,Human Microbiome Project,,Host_Associated,Mammals,Human,Vagina,NA
+hmp_vagina_mid_SRS014466,hmp_vagina_mid_SRS014466,Human Microbiome Project,,Host_Associated,Mammals,Human,Vagina,NA
+hmp_vagina_mid_SRS015072,hmp_vagina_mid_SRS015072,Human Microbiome Project,,Host_Associated,Mammals,Human,Vagina,NA
+Armadillo,Armadillo,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Armadillo,NA
+Bush_Dog ,Bush_Dog,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Bush_Dog,NA
+Dog,Dog,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Dog,NA
+Echidna,Echidna,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Echidna,NA
+Hyena,Hyena,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Hyena,NA
+Lion,Lion2,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Lion,NA
+Polar_Bear,Polar_Bear,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Polar_Bear,NA
+Saki,Saki,Mammal gut microbiome,,Host_Associated,Mammals,Carnivores,Saki,NA
+Big_Horn_Sheep,Big_Horn_Sheep,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Big_Horn_Sheep,NA
+Colobus,Colobus,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Colobus,NA
+Cow,Cow_Filtered,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Cow,NA
+Gazelle,Gazelle,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Gazelle,NA
+Giraffe,Giraffe,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Giraffe,NA
+Hyrax,HyraxStl,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Hyrax,NA
+Kangaroo,Kangaroo,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Kangaroo,NA
+Okapi,Okapi,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Okapi,NA
+Reindeer,Reindeer,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Reindeer,NA
+Springbok,Springbok,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Springbok,NA
+Urial,Urial,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Urial,NA
+Wallaby,Wallaby,Mammal gut microbiome,,Host_Associated,Mammals,Foregut_fermenting_Herbivores,Wallaby,NA
+Beaver,Beaver_Filter,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Beaver,NA
+Black_Rhino,Black_Rhino,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Black_Rhino,NA
+Capybara,Capybara,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Capybara,NA
+Gorilla,Gorilla,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Gorilla,NA
+Horse_1,Horse_1,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Horse,NA
+Horse_2,Horse_2,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Horse,NA
+Lemur,Lemur,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Lemur,NA
+Orangutan,Orangutan,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Orangutan,NA
+Rabbit,Rabbit,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Rabbit,NA
+Zebra,Zebra,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,Zebra,NA
+African_Elephant,African_Elephant,Mammal gut microbiome,,Host_Associated,Mammals,Hindgut_fermenting_Herbivores,African_Elephant,NA
+Baboon,Baboon_Stool,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Baboon,NA
+Black_Bear,Black_Bear,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Black_Bear,NA
+Black_Lemur,Black_Lemur,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Black_Lemur,NA
+Callimicos,Callimicos,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Callimicos,NA
+Chimp1,Chimp1,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Chimpanzee,NA
+Pig,Pig,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Pig,NA
+Spectaled_Bear,Spectaled_Bear,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Spectacled_Bear,NA
+Suirrel_Filtered,Suirrel_Filtered,Mammal gut microbiome,,Host_Associated,Mammals,Omnivores,Squirrel,NA
+3300001977,imgm_3300001977_plants,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA - M5 (KBS Miscanthus M5, ASSEMBLY_DATE=20131021)",,Host_Associated,Plants,Rhizosphere,Miscanthus,NA
+2225789003,imgm_2225789003,Passalidae beetle gut microbial communities from Costa Rica,,Host_Associated,Insect_Gut,Beetle_Gut,NA,NA
+3300000036,imgm_3300000036,Passalidae beetle gut microbial communities from Costa Rica,,Host_Associated,Insect_Gut,Beetle_Gut,NA,NA
+3300000062,imgm_3300000062,Passalidae beetle gut microbial communities from Costa Rica,,Host_Associated,Insect_Gut,Beetle_Gut,NA,NA
+3300000097,imgm_3300000097,Passalidae beetle gut microbial communities from Costa Rica,,Host_Associated,Insect_Gut,Beetle_Gut,NA,NA
+3300000836,imgm_3300000836,Passalidae beetle gut microbial communities from Costa Rica,,Host_Associated,Insect_Gut,Beetle_Gut,NA,NA
+3300000400,img_3300000400_porifera,Rhopaloeides odorabile metagenome replicate 1 (BBAY34),,Host_Associated,Porifera,Unclassified_Porifera,Extracellular_symbionts,NA
+3300000392,img_3300000392_porifera,Rhopaloeides odorabile metagenome replicate 3 (BBAY36),,Host_Associated,Porifera,Unclassified_Porifera,Extracellular_symbionts,NA
+3300001432,imgm_3300001432_plants,"Switchgrass rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA, with PhiX - S2 (KBS Switchgrass S2 with PhiX, ASSEMBLY_DATE=20130527)",,Host_Associated,Plants,Rhizosphere,Switchgrass,NA
+3300002239,imgm_3300002239_plants,"Switchgrass rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA, with PhiX - S2 (KBS Switchgrass S2 with PhiX, ASSEMBLY_DATE=20131209)",,Host_Associated,Plants,Rhizosphere,Switchgrass,NA
+3300001426,imgm_3300001426_plants,"Switchgrass rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA, with spike-in - S2 (KBS Switchgrass S2 with spike-in, ASSEMBLY_DATE=20130526)",,Host_Associated,Plants,Rhizosphere,Switchgrass,NA
+2124908023,imgm_2124908023_plants,"Switchgrass rhizosphere microbial community from Michigan, USA - East Lansing bulk soil (Bulk soil GOTP January 2011 combined assembly)",,Host_Associated,Plants,Rhizosphere,Switchgrass,NA
+2222084012,imgm_2222084012,"Wild Panda gut microbial communities from Shaanxi, China",,Host_Associated,Mammals,Omnivores,Wild_Panda,NA
+2222084013,imgm_2222084013,"Wild Panda gut microbial communities from Shaanxi, China",,Host_Associated,Mammals,Omnivores,Wild_Panda,NA
+2222084014,imgm_2222084014,"Wild Panda gut microbial communities from Shaanxi, China",,Host_Associated,Mammals,Omnivores,Wild_Panda,NA
+MGPandaW5,MGPandaW5,,,Host_Associated,Mammals,Omnivores,Wild_Panda,NA
+viral_organismal_substrate_rumen_virome_cow,viral_organismal_substrate_rumen_virome_cow,Bovine Rumen Virome,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Host_associated,Cow_Rumen,TBA,NA
+viral_sediment_cbaysed,viral_sediment_cbaysed,Chesapeake Sediment,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Sediment,TBA,TBA,NA
+viral_soil_matapeake,viral_soil_matapeake,Delaware Soil,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Soil,Viral_Agricultural,TBA,NA
+viral_extreme_gwab,viral_extreme_gwab,Epr Vent 2002,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Extreme,Viral_Hydrothermal_vent,TBA,NA
+viral_extreme_gwac,viral_extreme_gwac,Epr Vent 2002,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Extreme,Viral_Hydrothermal_vent,TBA,NA
+viral_extreme_gwad,viral_extreme_gwad,Epr Vent 2002,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Extreme,Viral_Hydrothermal_vent,TBA,NA
+viral_soil_jtdesert,viral_soil_jtdesert,Global Soil,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Soil,Viral_Desert,TBA,NA
+viral_soil_kprairie,viral_soil_kprairie,Global Soil,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Soil,Viral_Praire,TBA,NA
+viral_water_dunk_island,viral_water_dunk_island,Great Barrier Reef,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Coral_reef,TBA,NA
+viral_organismal_substrate_adult_fecal,viral_organismal_substrate_adult_fecal,Human Adult Feces,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Host_associated,Viral_Adult_Feces,TBA,NA
+viral_organismal_substrate_babyfeces,viral_organismal_substrate_babyfeces,Human Infant Feces,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Host_associated,Viral_Baby_Feces,TBA,NA
+4443317,mgm_sanger_4443317,Iquique Oxygen minimum zone Chile,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443317.3,Virome,Viral_Aquatic,Viral_Marine,Viral_OMZ,NA
+4443776,mgm_454_4443776,Iquique Oxygen minimum zone Chile,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443776.3,Virome,Viral_Aquatic,Viral_Marine,Viral_OMZ,NA
+4443777,mgm_454_4443777,Iquique Oxygen minimum zone Chile,http://metagenomics.anl.gov/metagenomics.cgi?page=MetagenomeOverview&metagenome=4443777.3,Virome,Viral_Aquatic,Viral_Marine,Viral_OMZ,NA
+viral_water_cbayvir_ssdna_sanger,viral_water_cbayvir_ssdna_sanger,Marine Virioplankton,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Marine,TBA,NA
+viral_water_cbayvir1_dsdna_454,viral_water_cbayvir1_dsdna_454,Marine Virioplankton,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Marine,TBA,NA
+viral_water_cbayvir1_dsdna_sanger,viral_water_cbayvir1_dsdna_sanger,Marine Virioplankton,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Marine,TBA,NA
+viral_water_cbayvir3_dsdna_454,viral_water_cbayvir3_dsdna_454,Marine Virioplankton,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Marine,TBA,NA
+viral_water_cbayvir3_dsdna_sanger,viral_water_cbayvir3_dsdna_sanger,Marine Virioplankton,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Aquatic,Viral_Marine,TBA,NA
+viral_sediment_mb_sed,viral_sediment_mb_sed,Mission Bay Sediment,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Sediment,TBA,TBA,NA
+viral_solid_substrate_namib_pypolith,viral_solid_substrate_namib_pypolith,Namib Hypolith,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Sewage,NA,NA,NA
+viral_organismal_substrate_harbor_porpoise,viral_organismal_substrate_harbor_porpoise,Neurotropic Viruses Of Harbor Porpoises,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Host_associated,Viral_Porpoise,TBA,NA
+viral_solid_substrate_actsludge,viral_solid_substrate_actsludge,Sewage,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Sewage,NA,NA,NA
+viral_solid_substrate_influent,viral_solid_substrate_influent,Sewage,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Sewage,NA,NA,NA
+viral_organismal_substrate_swine_virime_asp250,viral_organismal_substrate_swine_virime_asp250,Swine Viromes 1,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Viral_Host_associated,Viral_Swine,TBA,NA
+viral_extreme_bearpaw_reads,viral_extreme_bearpaw_reads,Yellowstone Hotspring,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Extreme,Viral_Hot_Spring,TBA,NA
+viral_extreme_octopus_spring,viral_extreme_octopus_spring,Yellowstone Hotspring,http://virome.dbi.udel.edu/app/#view=Statistics;,Virome,Extreme,Viral_Hot_Spring,TBA,NA
