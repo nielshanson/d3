@@ -1,0 +1,724 @@
+{
+   "name": "Cellular Organisms",
+   "children": [
+      {
+         "name": "Bacteria",
+         "children": [
+            {
+               "name": "Proteobacteria",
+               "children": [
+                  {
+                     "name": "Alphaproteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "20",
+                              "C-Surface": "37",
+                              "N-surface": "24",
+                              "Mid": "12"
+                           },
+                           "name": "Rhizobiales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "6",
+                              "C-Surface": "21",
+                              "N-surface": "18",
+                              "Mid": "8"
+                           },
+                           "name": "Rhodospirillales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "1",
+                              "C-Surface": "43",
+                              "N-surface": "4",
+                              "Mid": "0"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Betaproteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "1",
+                              "C-Surface": "13",
+                              "N-surface": "6",
+                              "Mid": "0"
+                           },
+                           "name": "Burkholderiales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "5",
+                              "C-Surface": "3",
+                              "N-surface": "3",
+                              "Mid": "1"
+                           },
+                           "name": "Nitrosomonadales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "7",
+                              "C-Surface": "4",
+                              "N-surface": "1",
+                              "Mid": "2"
+                           },
+                           "name": "SC-I-84"
+                        },
+                        {
+                           "values": {
+                              "Bt": "9",
+                              "C-Surface": "2",
+                              "N-surface": "1",
+                              "Mid": "1"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Deltaproteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "12",
+                              "C-Surface": "0",
+                              "N-surface": "0",
+                              "Mid": "1"
+                           },
+                           "name": "Desulfuromonadales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "7",
+                              "C-Surface": "0",
+                              "N-surface": "3",
+                              "Mid": "4"
+                           },
+                           "name": "GR-WP33-30"
+                        },
+                        {
+                           "values": {
+                              "Bt": "17",
+                              "C-Surface": "0",
+                              "N-surface": "7",
+                              "Mid": "3"
+                           },
+                           "name": "Myxococcales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "19",
+                              "C-Surface": "2",
+                              "N-surface": "0",
+                              "Mid": "2"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Gammaproteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "2",
+                              "Mid": "1"
+                           },
+                           "name": "Pseudomonadales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "4",
+                              "C-Surface": "2",
+                              "N-surface": "23",
+                              "Mid": "4"
+                           },
+                           "name": "Xanthomonadales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "6",
+                              "C-Surface": "1",
+                              "N-surface": "2",
+                              "Mid": "1"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Epsilonproteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Campylobacterales"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Proteobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "1",
+                              "C-Surface": "3",
+                              "N-surface": "5",
+                              "Mid": "2"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Bacteroidetes",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Bacteroidetes",
+               "children": [
+                  {
+                     "name": "Flavobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Flavobacteriales"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Sphingobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "6",
+                              "C-Surface": "73",
+                              "N-surface": "17",
+                              "Mid": "2"
+                           },
+                           "name": "Sphingobacteriales"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Acidobacteria",
+               "children": [
+                  {
+                     "name": "Acidobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "5",
+                              "C-Surface": "11",
+                              "N-surface": "21",
+                              "Mid": "10"
+                           },
+                           "name": "Acidobacteriales"
+                        },
+                        {
+                           "values": {
+                              "Bt": "1",
+                              "C-Surface": "13",
+                              "N-surface": "8",
+                              "Mid": "2"
+                           },
+                           "name": "Bryobacter"
+                        },
+                        {
+                           "values": {
+                              "Bt": "43",
+                              "C-Surface": "4",
+                              "N-surface": "3",
+                              "Mid": "6"
+                           },
+                           "name": "DA023"
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "16",
+                              "Mid": "3"
+                           },
+                           "name": "DA052"
+                        },
+                        {
+                           "values": {
+                              "Bt": "13",
+                              "C-Surface": "6",
+                              "N-surface": "1",
+                              "Mid": "10"
+                           },
+                           "name": "RB41"
+                        },
+                        {
+                           "values": {
+                              "Bt": "15",
+                              "C-Surface": "4",
+                              "N-surface": "1",
+                              "Mid": "8"
+                           },
+                           "name": "Holophagae"
+                        },
+                        {
+                           "values": {
+                              "Bt": "25",
+                              "C-Surface": "14",
+                              "N-surface": "9",
+                              "Mid": "15"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Actinobacteria",
+               "children": [
+                  {
+                     "name": "Actinobacteria",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "19",
+                              "C-Surface": "9",
+                              "N-surface": "4",
+                              "Mid": "2"
+                           },
+                           "name": "Acidimicrobidae"
+                        },
+                        {
+                           "values": {
+                              "Bt": "35",
+                              "C-Surface": "52",
+                              "N-surface": "23",
+                              "Mid": "0"
+                           },
+                           "name": "Actinobacteridae"
+                        },
+                        {
+                           "values": {
+                              "Bt": "32",
+                              "C-Surface": "21",
+                              "N-surface": "13",
+                              "Mid": "3"
+                           },
+                           "name": "Rubrobacteridae"
+                        }
+                     ]
+                  },
+                  {
+                     "values": {
+                        "Bt": "22",
+                        "C-Surface": "0",
+                        "N-surface": "0",
+                        "Mid": "4"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "name": "Chloroflexi",
+               "children": [
+                  {
+                     "name": "Anaerolineae",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "26",
+                              "C-Surface": "0",
+                              "N-surface": "2",
+                              "Mid": "1"
+                           },
+                           "name": "Anaerolineales"
+                        }
+                     ]
+                  },
+                  {
+                     "values": {
+                        "Bt": "64",
+                        "C-Surface": "18",
+                        "N-surface": "3",
+                        "Mid": "11"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "name": "Planctomycetes",
+               "children": [
+                  {
+                     "values": {
+                        "Bt": "4",
+                        "C-Surface": "13",
+                        "N-surface": "6",
+                        "Mid": "6"
+                     },
+                     "name": "Phycisphaerae"
+                  },
+                  {
+                     "name": "Planctomycetacia",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "15",
+                              "C-Surface": "26",
+                              "N-surface": "14",
+                              "Mid": "8"
+                           },
+                           "name": "Planctomycetales"
+                        }
+                     ]
+                  },
+                  {
+                     "values": {
+                        "Bt": "6",
+                        "C-Surface": "2",
+                        "N-surface": "1",
+                        "Mid": "1"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "values": {
+                  "Bt": "0",
+                  "C-Surface": "7",
+                  "N-surface": "1",
+                  "Mid": "0"
+               },
+               "name": "Cyanobacteria"
+            },
+            {
+               "values": {
+                  "Bt": "20",
+                  "C-Surface": "26",
+                  "N-surface": "3",
+                  "Mid": "11"
+               },
+               "name": "Gemmatimonadetes"
+            },
+            {
+               "name": "Nitrospirae",
+               "children": [
+                  {
+                     "name": "Nitrospira",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "6",
+                              "C-Surface": "0",
+                              "N-surface": "0",
+                              "Mid": "5"
+                           },
+                           "name": "Nitrospirales"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Verrucomicrobia",
+               "children": [
+                  {
+                     "values": {
+                        "Bt": "2",
+                        "C-Surface": "9",
+                        "N-surface": "2",
+                        "Mid": "15"
+                     },
+                     "name": "Spartobacteria"
+                  },
+                  {
+                     "values": {
+                        "Bt": "4",
+                        "C-Surface": "3",
+                        "N-surface": "7",
+                        "Mid": "4"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "values": {
+                  "Bt": "18",
+                  "C-Surface": "33",
+                  "N-surface": "6",
+                  "Mid": "15"
+               },
+               "name": "Other"
+            }
+         ]
+      },
+      {
+         "name": "Archaea",
+         "children": [
+            {
+               "values": {
+                  "Bt": "1",
+                  "C-Surface": "0",
+                  "N-surface": "0",
+                  "Mid": "0"
+               },
+               "name": "Crenarchaeota"
+            },
+            {
+               "values": {
+                  "Bt": "0",
+                  "C-Surface": "0",
+                  "N-surface": "0",
+                  "Mid": "0"
+               },
+               "name": "Euryarchaeota"
+            }
+         ]
+      },
+      {
+         "name": "Eukaryota",
+         "children": [
+            {
+               "name": "Alveolata",
+               "children": [
+                  {
+                     "values": {
+                        "Bt": "0",
+                        "C-Surface": "5",
+                        "N-surface": "0",
+                        "Mid": "0"
+                     },
+                     "name": "Apicomplexa"
+                  },
+                  {
+                     "values": {
+                        "Bt": "0",
+                        "C-Surface": "5",
+                        "N-surface": "0",
+                        "Mid": "0"
+                     },
+                     "name": "Ciliophora"
+                  },
+                  {
+                     "values": {
+                        "Bt": "0",
+                        "C-Surface": "0",
+                        "N-surface": "0",
+                        "Mid": "0"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "name": "Opisthokonta",
+               "children": [
+                  {
+                     "name": "Fungi",
+                     "children": [
+                        {
+                           "name": "Dikarya",
+                           "children": [
+                              {
+                                 "values": {
+                                    "Bt": "4",
+                                    "C-Surface": "0",
+                                    "N-surface": "7",
+                                    "Mid": "1"
+                                 },
+                                 "name": "Ascomycota"
+                              },
+                              {
+                                 "values": {
+                                    "Bt": "3",
+                                    "C-Surface": "11",
+                                    "N-surface": "8",
+                                    "Mid": "0"
+                                 },
+                                 "name": "Basidiomycota"
+                              }
+                           ]
+                        },
+                        {
+                           "name": "Glomeromycota",
+                           "children": [
+                              {
+                                 "values": {
+                                    "Bt": "0",
+                                    "C-Surface": "3",
+                                    "N-surface": "0",
+                                    "Mid": "0"
+                                 },
+                                 "name": "Glomeromycetes"
+                              }
+                           ]
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "4",
+                              "N-surface": "3",
+                              "Mid": "0"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  },
+                  {
+                     "name": "Metazoa",
+                     "children": [
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "1",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Annelida"
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "0",
+                              "N-surface": "4",
+                              "Mid": "0"
+                           },
+                           "name": "Arthropoda"
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "2",
+                              "N-surface": "1",
+                              "Mid": "0"
+                           },
+                           "name": "Nematoda"
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "1",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Tardigrada"
+                        },
+                        {
+                           "values": {
+                              "Bt": "0",
+                              "C-Surface": "1",
+                              "N-surface": "0",
+                              "Mid": "0"
+                           },
+                           "name": "Other"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "Viridiplantae",
+               "children": [
+                  {
+                     "values": {
+                        "Bt": "0",
+                        "C-Surface": "7",
+                        "N-surface": "0",
+                        "Mid": "0"
+                     },
+                     "name": "Chlorophyta"
+                  },
+                  {
+                     "name": "Streptophyta",
+                     "children": [
+                        {
+                           "name": "Embryophyta",
+                           "children": [
+                              {
+                                 "values": {
+                                    "Bt": "0",
+                                    "C-Surface": "2",
+                                    "N-surface": "0",
+                                    "Mid": "0"
+                                 },
+                                 "name": "Bryophyta"
+                              },
+                              {
+                                 "values": {
+                                    "Bt": "0",
+                                    "C-Surface": "10",
+                                    "N-surface": "2",
+                                    "Mid": "0"
+                                 },
+                                 "name": "Tracheophyta"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "values": {
+                        "Bt": "0",
+                        "C-Surface": "1",
+                        "N-surface": "0",
+                        "Mid": "0"
+                     },
+                     "name": "Other"
+                  }
+               ]
+            },
+            {
+               "values": {
+                  "Bt": "0",
+                  "C-Surface": "8",
+                  "N-surface": "0",
+                  "Mid": "0"
+               },
+               "name": "Rhizaria"
+            },
+            {
+               "values": {
+                  "Bt": "0",
+                  "C-Surface": "16",
+                  "N-surface": "0",
+                  "Mid": "0"
+               },
+               "name": "Other"
+            }
+         ]
+      }
+   ]
+}
